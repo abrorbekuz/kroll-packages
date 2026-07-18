@@ -74,6 +74,8 @@ const extension = {
       date: "2024/3/1",
       link: lesson.href,
       linkType: "webview",
+      webInject:
+        "(function() {var header = document.querySelector('header.site-header'); if (header) header.remove();true;})();",
     }));
 
     return {
