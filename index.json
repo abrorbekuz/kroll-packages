@@ -1,0 +1,30 @@
+[
+  {
+    "title": "Dongeun Korean",
+    "name": "dongeun",
+    "language": "ko",
+    "baseUrl": "http://127.0.0.1:3000",
+    "coverUri": "https://avatars.mds.yandex.net/get-altay/14402637/2a00000193da469556c3856ce124111b6f6c/L_height"
+  },
+  {
+    "title": "Kocw",
+    "name": "kocw",
+    "language": "ko",
+    "baseUrl": "http://www.kocw.net",
+    "coverUri": "https://kocw.net/home/images/favicon.ico"
+  },
+  {
+    "title": "TOPIK Guide Mock Tests",
+    "name": "topikguide",
+    "language": "ko",
+    "baseUrl": "https://www.topikguide.com/topik-mock-tests/",
+    "coverUri": "https://jaem.io/wp-content/uploads/2025/04/Free-TOPIK-Mock-Tests-image.jpg"
+  },
+  {
+    "title": "Result Wallet",
+    "name": "wallet",
+    "language": "en",
+    "baseUrl": "https://www.topik.go.kr",
+    "coverUri": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU4nAnbbxZxXJDztWToVevSchBQ2vGpcK6QdlbEJV-IA&s=10"
+  }
+]
