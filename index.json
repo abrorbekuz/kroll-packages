@@ -30,5 +30,13 @@
     "baseUrl": "https://www.topik.go.kr",
     "coverUri": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU4nAnbbxZxXJDztWToVevSchBQ2vGpcK6QdlbEJV-IA&s=10",
     "version": "v1.0.0"
+  },
+  {
+    "title": "Muhammadqodir Yulchiyev",
+    "name": "mqodir",
+    "language": "uz",
+    "baseUrl": "https://t.me/STUDENTKADIR",
+    "coverUri": "https://uknow.tail6e7192.ts.net/author.jpg",
+    "version": "v1.0.0"
   }
 ]
