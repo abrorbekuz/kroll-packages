@@ -75,7 +75,7 @@ const extension = {
       link: lesson.href,
       linkType: "webview",
       webInject:
-        "(function() {var header = document.querySelector('header.site-header'); if (header) header.remove();true;})();",
+        "(function() { var header = document.querySelector('header.site-header'); if (header) header.remove(); var footer = document.querySelector('footer'); if (footer) footer.remove();})();",
     }));
 
     return {
